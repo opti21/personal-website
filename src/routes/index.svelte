@@ -2,6 +2,7 @@
 </script>
 
 <svelte:head>
+	<title>Brandon(opti)</title>
 	<link
 		href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,400;1,400;1,700;1,900&display=swap"
 		rel="stylesheet"
@@ -23,9 +24,9 @@
 	<header
 		class="header-container m-auto p-2 lg:p-4 flex flex-col md:flex-row border-double border-4 border-white rounded-lg backdrop-blur-md"
 	>
-		<div class="text-white px-4 md:pt-0 max-w-2xl">
+		<div class="text-white px-2 md:pt-0 max-w-2xl">
 			<h1 class="title text-4xl md:text-5xl w-full">Hi there,</h1>
-			<h1 class="title text-4xl md:text-5xl w-full">I'm Brandon (opti)!</h1>
+			<h1 class="title text-2xl md:text-5xl w-full">I'm Brandon(opti)!</h1>
 			<p class="text-2xl font-extralight py-4 max-w-lg">
 				Just a normal everyday full stack dev who enjoys programming and building cool things.
 			</p>
