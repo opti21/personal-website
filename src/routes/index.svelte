@@ -70,7 +70,7 @@
 			class="header-content-right text-white md:border-white md:border-double md:border-l-4 pt-2 md:px-2 md:pt-0 flex items-center"
 		>
 			<img
-				class="header-image border border-white rounded-md mx-auto"
+				class="header-image border border-white rounded-md ml-1 lg:ml-4"
 				src="/gopher_pfp.jpg"
 				alt="profile of brandon as a gopher"
 				width="300"
